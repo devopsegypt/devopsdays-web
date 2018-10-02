@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Enterprise DevOps, a Pragmatic Approach (Ignite)" 
 Type = "talk" 
 Speakers = ["ahmed-abdelaziz"] 
+youtube = "https://youtu.be/eLb0M6Ebx1k"
 +++
 
 Many companies and teams have already adopted DevOps one way or another,  however,  when it comes to larger enterprise-scale adoption it is still stagnated. 
